@@ -15,4 +15,11 @@ Use haml to write html.
 
 Use scss to write extensible css.
 
-Use the keywords TODO:, FIXME:, and HACK: to denote todos, broken code, and code that should be refactored.
+Use the keywords TODO:, FIXME:, and HACK: to denote todos, broken code, 
+and code that should be refactored.
+
+Adhere to Tim Pope's git commit message [guidelines][1].
+
+[1][http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html]
+
+TODO: Add links to haml, scss, and bbatsov's Ruby Style Guide.

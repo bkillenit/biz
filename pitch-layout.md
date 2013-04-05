@@ -11,11 +11,34 @@ particular need?
 (There should be no question about what you do after slide 1.)
 
 ## Problem/Opportunity
+**TODO: translate this explanation into 4th grade language concepts**
 - Let them know the big problem you are solving (existing or emerging)
+
+This is a pain some users don't even fully realize they have, which is why it
+can be tough to quantify. Information overload isn't news, but the increasing
+fragmentation of delivery mechanisms for our information, including 
+_infrastructure and logistics_ information. People need services that can
+determine the context that each piece of data needs to be associated with and
+deliver that data to them in the right context. We'll refer to this from here
+forward as "the context problem."
+
 - Tell them why this problem can now be addressed.
+
+Computers, specifically mobile devices, now have the processing power and
+sensory arrays to determine a user's context. Processing power is necessary for
+the machine learning any robust solution to the context problem must
+incorporate. New sensor arrays allow computers to leverage more powerful data, like
+geolocation data.
+
 - How big is the market? Be specific. Don't state the obvious. If the idea is
   a platform play with future opportunities, you can use a second clarifying
   page- slide 2.1.
+The size of the market, in the endgame, is every computer user alive, which is
+quickly growing to be the entire population of Earth. To be more specific, the
+_target market_ for our prototype specifically is tech-savvy iPhone users who
+are a) receptive to a privacy/user rights based argument and b) feel 'left out'
+by the fact that Google Now, the most cutting-edge system like the one we're
+designing, is only on Android. 
 ## Solution
 - What is it? (website, material, etc.)
 - How are you going to solve the problem in the specific market you outlined?
